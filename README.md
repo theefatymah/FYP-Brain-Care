@@ -11,7 +11,6 @@ Built with **ReactJS** (frontend), **Node.js/Express** (backend), and **Python/F
 - **Interactive Chatbot** for mental health tips & guidance
 - **Appointment Booking** with mental health professionals
 - **User Authentication** (Login/Register)
-- **Review & Feedback** System
 - Real-time Communication between frontend, backend & ML service
 
 ---
@@ -53,37 +52,36 @@ Make sure you have installed:
 ## 📥 Installation & Setup
 
 ## 1️⃣ Clone the Repository
-```bash
+
+````bash
 git clone https://github.com/theefatymah/FYP-Brain-Care.git
 cd FYP-Brain-Care
 ````
-
 ---
 
 ## 2️⃣ Install Frontend Dependencies
 
-```bash
+````bash
 cd frontend
 npm install
-```
+````
 
 ---
 
 ### 3️⃣ Install Backend Dependencies
 
-```bash
-cd ../backend
+````bash
+cd backend
 npm install
-```
-
+````
 ---
 
 ### 4️⃣ Install ML Service Dependencies
 
-```bash
-cd ../ml-service
+````bash
+cd ml-service
 pip install -r requirements.txt
-```
+````
 
 ---
 
@@ -91,33 +89,30 @@ pip install -r requirements.txt
 
 ## Start Frontend (React + Vite)
 
-```bash
+````bash
 cd frontend
 npm run dev
-```
+````
 
 ## Start Backend (Node + Express)
 
-```bash
+````bash
 cd backend
 node index.js
-```
+````
 
 ### Start ML Service (Flask API)
 
-```bash
+````bash
 cd ml-service
 python app.py
-```
+````
 
 ---
 
 ## 🌐 Deployment
 
-* **Frontend (React)** → [Vercel](https://vercel.com/)
-* **Backend (Node.js)** → [Render](https://render.com/) or [Heroku](https://www.heroku.com/)
-* **ML Service (Flask)** → [Render](https://render.com/)
-
+* **Frontend (React)** → [Vercel](https://brain-care-lime.vercel.app/)"
 ---
 
 ## 📊 Database Schema
@@ -125,10 +120,10 @@ python app.py
 **Tables:**
 
 * **users** → stores user login info
-* **appointments** → appointment details
+* **support** → appointment details
 * **predictions** → mental health prediction results
 * **reviews** → feedback from users
-* **notifications** → system alerts & reminders
+
 
 ---
 
@@ -148,7 +143,7 @@ This project is licensed under the MIT License.
 
 ## 🤝 Contributors
 
-* **Fatima** – Project Lead & Full-stack Developer
+* **Mah Noor Fatima** – Project Lead & Full-stack Developer
 
 ---
 
