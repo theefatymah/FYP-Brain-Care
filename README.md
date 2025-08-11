@@ -68,7 +68,7 @@ npm install
 
 ---
 
-### 3️⃣ Install Backend Dependencies
+## 3️⃣ Install Backend Dependencies
 
 ````bash
 cd backend
