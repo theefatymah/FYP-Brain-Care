@@ -149,7 +149,6 @@ This project is licensed under the MIT License.
 ## 🤝 Contributors
 
 * **Fatima** – Project Lead & Full-stack Developer
-* **(Add names if applicable)**
 
 ---
 
