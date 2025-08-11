@@ -52,7 +52,7 @@ Make sure you have installed:
 ## 📥 Installation & Setup
 
 ## 1️⃣ Clone the Repository
-```bash
+````bash
 git clone https://github.com/theefatymah/FYP-Brain-Care.git
 cd FYP-Brain-Care
 ````
@@ -61,28 +61,28 @@ cd FYP-Brain-Care
 
 ## 2️⃣ Install Frontend Dependencies
 
-```bash
+````bash
 cd frontend
 npm install
-```
+````
 
 ---
 
 ### 3️⃣ Install Backend Dependencies
 
-```bash
+````bash
 cd ../backend
 npm install
-```
+````
 
 ---
 
 ### 4️⃣ Install ML Service Dependencies
 
-```bash
+````bash
 cd ../ml-service
 pip install -r requirements.txt
-```
+````
 
 ---
 
@@ -90,24 +90,24 @@ pip install -r requirements.txt
 
 ## Start Frontend (React + Vite)
 
-```bash
+````bash
 cd frontend
 npm run dev
-```
+````
 
 ## Start Backend (Node + Express)
 
-```bash
+````bash
 cd backend
 node index.js
-```
+````
 
 ### Start ML Service (Flask API)
 
-```bash
+````bash
 cd ml-service
 python app.py
-```
+````
 
 ---
 
