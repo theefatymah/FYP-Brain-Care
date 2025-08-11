@@ -11,7 +11,6 @@ Built with **ReactJS** (frontend), **Node.js/Express** (backend), and **Python/F
 - **Interactive Chatbot** for mental health tips & guidance
 - **Appointment Booking** with mental health professionals
 - **User Authentication** (Login/Register)
-- **Review & Feedback** System
 - Real-time Communication between frontend, backend & ML service
 
 ---
@@ -114,10 +113,7 @@ python app.py
 
 ## 🌐 Deployment
 
-* **Frontend (React)** → [Vercel](https://vercel.com/)
-* **Backend (Node.js)** → [Render](https://render.com/) or [Heroku](https://www.heroku.com/)
-* **ML Service (Flask)** → [Render](https://render.com/)
-
+* **Frontend (React)** → [Vercel](https://brain-care-lime.vercel.app/)"
 ---
 
 ## 📊 Database Schema
@@ -125,10 +121,10 @@ python app.py
 **Tables:**
 
 * **users** → stores user login info
-* **appointments** → appointment details
+* **support** → appointment details
 * **predictions** → mental health prediction results
 * **reviews** → feedback from users
-* **notifications** → system alerts & reminders
+
 
 ---
 
@@ -148,7 +144,7 @@ This project is licensed under the MIT License.
 
 ## 🤝 Contributors
 
-* **Fatima** – Project Lead & Full-stack Developer
+* **Mah Noor Fatima** – Project Lead & Full-stack Developer
 
 ---
 
