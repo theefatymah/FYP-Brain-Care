@@ -53,29 +53,35 @@ Make sure you have installed:
 
 ## 1️⃣ Clone the Repository
 
+````bash
 git clone https://github.com/theefatymah/FYP-Brain-Care.git
 cd FYP-Brain-Care
-
+````
 ---
 
 ## 2️⃣ Install Frontend Dependencies
 
+````bash
 cd frontend
 npm install
+````
 
 ---
 
 ### 3️⃣ Install Backend Dependencies
 
-cd ../backend
+````bash
+cd backend
 npm install
-
+````
 ---
 
 ### 4️⃣ Install ML Service Dependencies
 
-cd ../ml-service
+````bash
+cd ml-service
 pip install -r requirements.txt
+````
 
 ---
 
